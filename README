@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5092
+
+This plugin provides some screensavers for Vim. 
+
+The default screensaver is the clock moving saver.
+
+The repository is https://github.com/itchyny/screensaver.vim.
